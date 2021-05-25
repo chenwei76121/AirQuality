@@ -1,0 +1,344 @@
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\AirQuality.dll.config
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\AirQuality.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\AirQuality.pdb
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\csc.exe
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\csc.exe.config
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\csc.rsp
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\csi.exe
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\csi.exe.config
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\csi.rsp
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.AppContext.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.Console.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.IO.Compression.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.Net.Http.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.Net.Sockets.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.ValueTuple.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\vbc.exe
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\vbc.exe.config
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\vbc.rsp
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\VBCSCompiler.exe
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\Antlr3.Runtime.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\Newtonsoft.Json.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\System.Web.Helpers.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\System.Web.Mvc.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\System.Web.Optimization.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\System.Web.Razor.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\System.Web.WebPages.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\System.Web.WebPages.Razor.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\WebGrease.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\System.Web.Helpers.xml
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\System.Web.Mvc.xml
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\System.Web.Optimization.xml
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\System.Web.Razor.xml
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\System.Web.WebPages.xml
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\System.Web.WebPages.Razor.xml
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\Newtonsoft.Json.xml
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\Antlr3.Runtime.pdb
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\obj\Debug\AirQuality.csprojAssemblyReference.cache
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\obj\Debug\AirQuality.csproj.CoreCompileInputs.cache
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\obj\Debug\AirQuality.csproj.CopyComplete
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\obj\Debug\AirQuality.dll
+C:\Users\gsm31\source\repos\AirQuality\AirQuality\obj\Debug\AirQuality.pdb
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\AirQuality.dll.config
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\AirQuality.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\AirQuality.pdb
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\csc.exe
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\csc.exe.config
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\csc.rsp
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\csi.exe
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\csi.exe.config
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\csi.rsp
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.Managed.Core.targets
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.AppContext.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Collections.Immutable.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Console.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Globalization.Calendars.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.IO.Compression.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.IO.FileSystem.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Net.Http.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Net.Sockets.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Reflection.Metadata.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.ValueTuple.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Xml.XmlDocument.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Xml.XPath.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\vbc.exe
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\vbc.exe.config
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\vbc.rsp
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\VBCSCompiler.exe
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\VBCSCompiler.exe.config
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\Antlr3.Runtime.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\Microsoft.Web.Infrastructure.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\Newtonsoft.Json.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.Helpers.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.Mvc.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.Optimization.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.Razor.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.WebPages.Deployment.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.WebPages.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.WebPages.Razor.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\WebGrease.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.Helpers.xml
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.Mvc.xml
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.Optimization.xml
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.Razor.xml
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.WebPages.xml
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.WebPages.Deployment.xml
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.WebPages.Razor.xml
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\Newtonsoft.Json.xml
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\Antlr3.Runtime.pdb
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\zh-Hant\System.Web.Helpers.resources.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\zh-Hant\System.Web.Mvc.resources.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\zh-Hant\System.Web.Optimization.resources.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\zh-Hant\System.Web.Razor.resources.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\zh-Hant\System.Web.WebPages.resources.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\obj\Debug\AirQuality.csprojAssemblyReference.cache
+F:\巨匠課程資料\C#\AirQuality\AirQuality\obj\Debug\AirQuality.csproj.CoreCompileInputs.cache
+F:\巨匠課程資料\C#\AirQuality\AirQuality\obj\Debug\AirQuality.csproj.CopyComplete
+F:\巨匠課程資料\C#\AirQuality\AirQuality\obj\Debug\AirQuality.dll
+F:\巨匠課程資料\C#\AirQuality\AirQuality\obj\Debug\AirQuality.pdb
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\AirQuality.dll.config
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\AirQuality.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\AirQuality.pdb
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\csc.exe
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\csc.exe.config
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\csc.rsp
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\csi.exe
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\csi.exe.config
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\csi.rsp
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.Managed.Core.targets
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.AppContext.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Collections.Immutable.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Console.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Globalization.Calendars.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.IO.Compression.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.IO.FileSystem.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Net.Http.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Net.Sockets.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Reflection.Metadata.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.ValueTuple.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Xml.XmlDocument.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Xml.XPath.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\vbc.exe
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\vbc.exe.config
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\vbc.rsp
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\VBCSCompiler.exe
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\roslyn\VBCSCompiler.exe.config
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\Antlr3.Runtime.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\Microsoft.Web.Infrastructure.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\Newtonsoft.Json.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.Helpers.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.Mvc.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.Optimization.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.Razor.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.WebPages.Deployment.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.WebPages.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.WebPages.Razor.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\WebGrease.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.Helpers.xml
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.Mvc.xml
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.Optimization.xml
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.Razor.xml
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.WebPages.xml
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.WebPages.Deployment.xml
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\System.Web.WebPages.Razor.xml
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\Newtonsoft.Json.xml
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\Antlr3.Runtime.pdb
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\zh-Hant\System.Web.Helpers.resources.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\zh-Hant\System.Web.Mvc.resources.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\zh-Hant\System.Web.Optimization.resources.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\zh-Hant\System.Web.Razor.resources.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\zh-Hant\System.Web.WebPages.resources.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\obj\Debug\AirQuality.csprojAssemblyReference.cache
+I:\巨匠課程資料\C#\AirQuality\AirQuality\obj\Debug\AirQuality.csproj.CoreCompileInputs.cache
+I:\巨匠課程資料\C#\AirQuality\AirQuality\obj\Debug\AirQuality.csproj.CopyComplete
+I:\巨匠課程資料\C#\AirQuality\AirQuality\obj\Debug\AirQuality.dll
+I:\巨匠課程資料\C#\AirQuality\AirQuality\obj\Debug\AirQuality.pdb
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\AirQuality.dll.config
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\AirQuality.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\AirQuality.pdb
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\csc.exe
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\csc.exe.config
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\csc.rsp
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\csi.exe
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\csi.exe.config
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\csi.rsp
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\Microsoft.Managed.Core.targets
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.AppContext.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.Collections.Immutable.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.Console.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.Globalization.Calendars.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.IO.Compression.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.IO.FileSystem.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.Net.Http.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.Net.Sockets.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.Reflection.Metadata.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.ValueTuple.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.Xml.XmlDocument.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.Xml.XPath.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\vbc.exe
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\vbc.exe.config
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\vbc.rsp
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\VBCSCompiler.exe
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\roslyn\VBCSCompiler.exe.config
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\Antlr3.Runtime.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\Microsoft.Web.Infrastructure.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\Newtonsoft.Json.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\System.Web.Helpers.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\System.Web.Mvc.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\System.Web.Optimization.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\System.Web.Razor.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\System.Web.WebPages.Deployment.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\System.Web.WebPages.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\System.Web.WebPages.Razor.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\WebGrease.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\System.Web.Helpers.xml
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\System.Web.Mvc.xml
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\System.Web.Optimization.xml
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\System.Web.Razor.xml
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\System.Web.WebPages.xml
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\System.Web.WebPages.Deployment.xml
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\System.Web.WebPages.Razor.xml
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\Newtonsoft.Json.xml
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\Antlr3.Runtime.pdb
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\zh-Hant\System.Web.Helpers.resources.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\zh-Hant\System.Web.Mvc.resources.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\zh-Hant\System.Web.Optimization.resources.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\zh-Hant\System.Web.Razor.resources.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\zh-Hant\System.Web.WebPages.resources.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\obj\Debug\AirQuality.csprojAssemblyReference.cache
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\obj\Debug\AirQuality.csproj.CoreCompileInputs.cache
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\obj\Debug\AirQuality.csproj.CopyComplete
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\obj\Debug\AirQuality.dll
+I:\巨匠課程資料\C#\AirQuality 作業  涂振維\AirQuality\obj\Debug\AirQuality.pdb

@@ -1,0 +1,339 @@
+﻿@model AirQuality.Models.Record[]
+@{
+    ViewBag.Title = "Index";
+}
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+<div class="container">
+    @using (Html.BeginForm("Query", "Air", FormMethod.Post
+        , new { @class = "form-inline" }))
+    {
+        @Html.AntiForgeryToken()
+        <div class="form-group" style="margin:20px">
+            <select class="form-control" id="county" name="county" >
+                <option value="請選擇縣市">請選擇縣市</option>
+                <option id="county" name="county" value="基隆市">基隆市</option>
+                <option id="county" name="county" value="臺北市">臺北市</option>
+                <option id="county" name="county" value="新北市">新北市</option>
+                <option id="county" name="county" value="桃園市">桃園市</option>
+                <option id="county" name="county" value="新竹市">新竹市</option>
+                <option id="county" name="county" value="新竹縣">新竹縣</option>
+                <option id="county" name="county" value="苗栗縣">苗栗縣</option>
+                <option id="county" name="county" value="臺中市">臺中市</option>
+                <option id="county" name="county" value="彰化縣">彰化縣</option>
+                <option id="county" name="county" value="南投縣">南投縣</option>
+                <option id="county" name="county" value="雲林縣">雲林縣</option>
+                <option id="county" name="county" value="嘉義市">嘉義市</option>
+                <option id="county" name="county" value="嘉義縣">嘉義縣</option>
+                <option id="county" name="county" value="臺南市">臺南市</option>
+                <option id="county" name="county" value="高雄市">高雄市</option>
+                <option id="county" name="county" value="屏東縣">屏東縣</option>
+                <option id="county" name="county" value="宜蘭縣">宜蘭縣</option>
+                <option id="county" name="county" value="花蓮縣">花蓮縣</option>
+                <option id="county" name="county" value="臺東縣">臺東縣</option>
+                <option id="county" name="county" value="澎湖縣">澎湖縣</option>
+                <option id="county" name="county" value="連江縣">連江縣</option>
+                <option id="county" name="county" value="金門縣">金門縣</option>
+            </select>
+        </div>
+        <div class="form-group" style="margin:20px" >
+            <select class="form-control" id="Site" name="Site" >
+                
+            </select>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Query" class="btn btn-primary" />
+            @Html.ActionLink("回總表", "Index", "Air", null, new { @class = "btn btn-primary", @role = "button" })
+        </div>
+    }
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Country</th>
+                <th scope="col" style="width:180px">Site</th>
+                <th scope="col" style="width:120px">PM25</th>
+                <th scope="col" style="width:200px">Status</th>
+                <th scope="col" style="width:200px">檢測時間</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                if (Model.GetValue(0) is null || Model.Length == 0)
+                {
+                    <tr>
+                        <td colspan="6">-- 查無資料  !! --</td>
+                    </tr>
+                }
+                else
+                {
+                    foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @item.county
+                            </td>
+                            <td>@item.Site</td>
+                            <td><div id="pm25">@item.PM25</div> </td>
+                            <td>
+                                <div id="status">
+                                    @{ int.TryParse(item.PM25, out int x);
+                                        if (x <= 20)
+                                        {<span class="badge bg-success" style="background-color:green;color:black">安全</span>};
+                                        if (x <= 40 && x > 20)
+                                        {<span class="badge bg-success" style="background-color:yellow;color:black">普通</span>};
+                                        if (x <= 70 && x > 40)
+                                        {<span class="badge bg-success" style="background-color:red;color:black">過量</span>};
+                                        if (x > 70)
+                                        {<span class="badge bg-success" style="background-color:rebeccapurple;color:black">危險</span>};
+                                    }
+                                </div>
+                            </td>
+                            <td>@item.DataCreationDate</td>
+                        </tr>
+                    }
+                }
+            }
+        </tbody>
+    </table>
+</div>
+<script>
+    $("#county").change(function () {
+        switch (($(this).val())) {
+
+            case "請選擇縣市":
+                $("#Site option").remove();
+                break;
+
+            case "基隆市":
+                $("#Site option").remove();
+                var array = ["基隆"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            case "臺北市":
+                $("#Site option").remove();
+                var array = ["大同", "士林", "中山", "萬華", "古亭", "松山", "陽明"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= "+array[i]+">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            case "新北市":
+                $("#Site option").remove();
+                var array = ["萬里", "永和", "板橋", "新店", "土城", "新莊", "菜寮", "林口", "富貴角", "汐止", "新北(樹林)", "淡水", "三重"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            case "桃園市":
+                $("#Site option").remove();
+                var array = ["中壢", "桃園", "大園", "觀音", "平鎮", "桃園(觀音工業區)", "龍潭"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+
+            case "新竹市":
+                $("#Site option").remove();
+                var array = ["新竹"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            case "新竹縣":
+                $("#Site option").remove();
+                var array = ["湖口", "竹東"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            case "苗栗縣":
+                $("#Site option").remove();
+                var array = ["三義", "頭份", "苗栗"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            case "臺中市":
+                $("#Site option").remove();
+                var array = ["豐原", "大里", "沙鹿", "忠明", "西屯"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            case "彰化縣":
+                $("#Site option").remove();
+                var array = ["彰化", "二林", "彰化(大城)", "線西", "大城"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            case "南投縣":
+                $("#Site option").remove();
+                var array = ["竹山", "南投", "埔里"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            case "雲林縣":
+                $("#Site option").remove();
+                var array = ["崙背", "臺西", "麥寮","斗六"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            case "嘉義市":
+                $("#Site option").remove();
+                var array = ["嘉義"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            case "嘉義縣":
+                $("#Site option").remove();
+                var array = ["新港","朴子"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            case "臺南市":
+                $("#Site option").remove();
+                var array = ["臺南", "新營", "善化", "安南", "臺南(北門)", "臺南(麻豆)"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            case "高雄市":
+                $("#Site option").remove();
+                var array = ["復興", "美濃", "橋頭", "仁武", "鳳山", "大寮", "林園", "楠梓", "左營", "前金", "前鎮", "小港"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            case "屏東縣":
+                $("#Site option").remove();
+                var array = ["屏東", "恆春", "潮州","屏東(琉球)"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            case "宜蘭縣":
+                $("#Site option").remove();
+                var array = ["冬山", "宜蘭"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            case "花蓮縣":
+                $("#Site option").remove();
+                var array = ["花蓮"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            case "臺東縣":
+                $("#Site option").remove();
+                var array = ["關山", "臺東"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            case "澎湖縣":
+                $("#Site option").remove();
+                var array = ["馬公"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            case "連江縣":
+                $("#Site option").remove();
+                var array = ["馬祖"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            case "金門縣":
+                $("#Site option").remove();
+                var array = ["金門"];
+                //利用each遍歷array中的值並將每個值新增到Select中
+                $.each(array, function (i, val) {
+                    /**/
+                    $("#Site").append($("<option id=\"Site\" name=\"Site\" value= " + array[i] + ">" + array[i] + "</option>"));
+                    /**/
+                });
+                break;
+            
+        }
+
+    });
+</script>
+
